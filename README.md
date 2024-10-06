@@ -8,7 +8,7 @@ I love working on Simulations, CFD and some python hacks. I also love sharing my
 <!--- expertise --->
 ## Scientific Expertise
 
-![](https://img.shields.io/badge/CFD-blue)    
+![](https://img.shields.io/badge/Computational%20Fluid-Dynamics-blue)    
 ![](https://img.shields.io/badge/Numerical-Simulations-blue)    
 ![](https://img.shields.io/badge/Finite%20Element-Methods-blue)     
 ![](https://img.shields.io/badge/Finite%20Volume-Methods-blue)    
