@@ -1,5 +1,7 @@
 # Hey, I'm Ajay! (He/him)  👋
 
+![animation_resized](https://github.com/user-attachments/assets/b780a6c2-1b80-4a93-bdc1-b8197e1c90df)
+
 I am Ajay, thanks for visiting my GitHub page! I am working CFD Product Manager with experience in Computational Science and Software Engineering.
 I love working on Simulations, CFD and some python hacks. I also love sharing my projects with the world.
 
