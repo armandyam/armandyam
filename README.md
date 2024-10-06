@@ -10,9 +10,9 @@ I love working on Simulations, CFD and some python hacks. I also love sharing my
 
 ![](https://img.shields.io/badge/CFD-blue)    
 ![](https://img.shields.io/badge/Numerical-Simulations-blue)    
-![](https://img.shields.io/badge/Finite-Element-Methods-blue)     
-![](https://img.shields.io/badge/Finite-Volume-Methods-blue)    
-![](https://img.shields.io/badge/Higher-Order_methods-blue)     
+![](https://img.shields.io/badge/Finite%20Element-Methods-blue)     
+![](https://img.shields.io/badge/Finite%20Volume-Methods-blue)    
+![](https://img.shields.io/badge/Higher--Order-Methods-blue)     
 ![](https://img.shields.io/badge/Adaptive-Meshing-blue)     
  
 <!---- skills ---->
