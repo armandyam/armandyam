@@ -24,11 +24,7 @@ I love working on Simulations, CFD and some python hacks. I also love sharing my
 <!--- some stats --->
 ## GitHub Stats
 
-<!--- 
-![Jeyashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnanj&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
---->
-
-[![Top languages](https://github-readme-stats.vercel.app/api?username=armandyam)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armandyam&langs_count=10&layout=compact&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💬 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/ajaymandyam/)
