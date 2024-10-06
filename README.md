@@ -1,7 +1,5 @@
 # Hey, I'm Ajay! (He/him)  👋
 
-I am Jeyashree Krishnan (JK), thanks for visiting my GitHub page! Computational scientist by background, I work on data science problems relevant to different business and research applications. Check out my website or the links on the left to learn more about me.
-
 I am Ajay, thanks for visiting my GitHub page! I am working CFD Product Manager with experience in Computational Science and Software Engineering.
 I love working on Simulations, CFD and some python hacks. I also love sharing my projects with the world.
 
