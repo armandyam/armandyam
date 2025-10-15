@@ -21,6 +21,6 @@ Welcome to my GitHub! I’m Ajay, an R&D Product Manager for CFD Meshing at Dass
 
 ## 💬 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/ajaymandyam/)
-- [Personal Website](https://www.armandyam.github.io)
+- [Personal Website](https://www.ajayrangarajan.com)
 
 Thanks for stopping by!
