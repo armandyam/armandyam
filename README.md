@@ -2,7 +2,7 @@
 
 ![animation_resized](https://github.com/user-attachments/assets/b780a6c2-1b80-4a93-bdc1-b8197e1c90df)
 
-Welcome to my GitHub! I’m Ajay, an R&D Product Manager for CFD Meshing at Dassault Systemes. With a background in Computational Science and Software Engineering, I specialize in CFD, high-performance simulations, and meshing. I enjoy working on Python hacks and sharing my projects with the world.
+Welcome to my GitHub! I am Ajay, a Senior Software Engineer working on GPU meshing for CFD at Ansys/Synopsys. Previously, I spent 4 years at Dassault Systèmes across software engineering and product management roles, working on simulation software and CFD meshing. With a background in computational science and scientific software engineering, I focus on CFD, high-performance simulation, and robust meshing algorithms. I enjoy building Python hacks, writing a semi-regular computational hacking blog, and sharing projects openly.
 
 ## 🔬 Scientific Expertise
 ![Computational Fluid-Dynamics](https://img.shields.io/badge/Computational%20Fluid-Dynamics-blue)    
