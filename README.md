@@ -6,6 +6,7 @@ Welcome to my GitHub! I am Ajay, a Senior Software Engineer working on GPU meshi
 
 ## 🔬 Scientific Expertise
 ![Computational Fluid-Dynamics](https://img.shields.io/badge/Computational%20Fluid-Dynamics-blue)    
+![Meshing](https://img.shields.io/badge/Meshing-blue)    
 ![Numerical Simulations](https://img.shields.io/badge/Numerical-Simulations-blue)    
 ![Finite Element-Methods](https://img.shields.io/badge/Finite%20Element-Methods-blue)     
 ![Finite Volume-Methods](https://img.shields.io/badge/Finite%20Volume-Methods-blue)    
@@ -16,8 +17,6 @@ Welcome to my GitHub! I am Ajay, a Senior Software Engineer working on GPU meshi
 ![Linux](https://img.shields.io/badge/Linux-blue) ![Bash](https://img.shields.io/badge/Bash-blue) ![C++](https://img.shields.io/badge/C++-blue)
 ![Python](https://img.shields.io/badge/Python-blue) ![Git](https://img.shields.io/badge/Git-blue) ![HTML](https://img.shields.io/badge/HTML-blue) ![Javascript](https://img.shields.io/badge/Javascript-blue) ![MPI](https://img.shields.io/badge/MPI-blue) 
 
-## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armandyam&langs_count=10&layout=compact&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💬 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/ajaymandyam/)
